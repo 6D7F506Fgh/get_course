@@ -1,5 +1,5 @@
 # get_course
-for Elzero web school 
+for elzero web school 
 
 
 project notes
